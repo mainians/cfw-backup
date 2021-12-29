@@ -1,0 +1,8 @@
+|    Size   |     DL  | sha512sum |
+|  ---  |  ---  |  ---  |
+| 20MB | [Clash.for.Windows-2021-12-29.7z.001](https://cdn.jsdelivr.net/gh/googleians/cfw@main/Clash.for.Windows-2021-12-29.7z.001) | 407d6b6e7fe353c903e2e3d3026a3235f1dee1e1ae721e7142c8f6770511ec0bd5049b7ca257b913c8f353b158a9842f0e19a13d5aaecc0404fbda5ef151e526 |
+| 20MB | [Clash.for.Windows-2021-12-29.7z.002](https://cdn.jsdelivr.net/gh/googleians/cfw@main/Clash.for.Windows-2021-12-29.7z.002) | 3c86de27245a3d99ab9ea4f630e417351637a55209f913dd08912d107da8c95e70578dfd1a67ac3c97e69b1554ab5e3379d0f282388a9fb6693715a0316dc781 |
+| 20MB | [Clash.for.Windows-2021-12-29.7z.003](https://cdn.jsdelivr.net/gh/googleians/cfw@main/Clash.for.Windows-2021-12-29.7z.003) | e3093e208a204d18813f282ef4183f82826fa2f30c6b687e97880662a56dbb67c778221a2134dbdbadf656c01d61971b0ab6aefbd7c5b94a4da49637c578e0c3 |
+| 20MB | [Clash.for.Windows-2021-12-29.7z.004](https://cdn.jsdelivr.net/gh/googleians/cfw@main/Clash.for.Windows-2021-12-29.7z.004) | 27911628a5c7ac831cb998c918ea111946ad8a95ed98c254d1978122f0ef6ed4b2b9e625e2da9d6b12b565c162ae51c476c078ffd962b746fe9be6cf2ba93864 |
+| 20MB | [Clash.for.Windows-2021-12-29.7z.005](https://cdn.jsdelivr.net/gh/googleians/cfw@main/Clash.for.Windows-2021-12-29.7z.005) | 4806df4a8b51a8f72812756838fc27dfbf9fb7f15e7d096cff14bb2c52d334dcb1530a3ed0a00c7a44ebc3f97bcece9d7313f988c6d6589d35b7d4d3a0e2b313 |
+| 1MB | [Clash.for.Windows-2021-12-29.7z.006](https://cdn.jsdelivr.net/gh/googleians/cfw@main/Clash.for.Windows-2021-12-29.7z.006) | 451f9ca740ddbf1b5db9349881bd11affdbade04d5213c5626e990a2ecb7f2aca9e23075a19b8aab265941003f43ace6acba4789fe12ed4ea87677b83a9f7995 |
